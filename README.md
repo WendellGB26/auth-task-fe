@@ -8,7 +8,9 @@ These instructions will help you run the project on your local machine for devel
 Follow these steps to install and run the project:
 
 Clone this repository to your local machine:
+``` shell
 git clone https://github.com/WendellGB26/auth-task-fe.git
+```
 
 ## Install project dependencies using npm:
 
